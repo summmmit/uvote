@@ -35,10 +35,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="results.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="results.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vote/pages/examples/results.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="527" column="27" selection-start="24201" selection-end="24201" vertical-scroll-proportion="0.48850575" vertical-offset="2193" max-vertical-offset="4250">
+            <state line="527" column="27" selection-start="24201" selection-end="24201" vertical-scroll-proportion="-16.346153" vertical-offset="2193" max-vertical-offset="4250">
               <folding>
                 <element signature="tag#header#0;tag#body#0;tag#html#0" expanded="false" />
                 <element signature="tag#section#0;tag#aside#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
@@ -48,6 +48,31 @@
                 <element signature="n#style#0;n#div#0;n#div#0;n#td#3;n#tr#3;n#table#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#1;n#aside#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#td#3;n#tr#4;n#table#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#1;n#aside#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <marker date="1406006631910" expanded="false" signature="27087:27165" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="buttons.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/vote/pages/UI/buttons.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="470" column="25" selection-start="30194" selection-end="30194" vertical-scroll-proportion="0.29310346" vertical-offset="1649" max-vertical-offset="10591">
+              <folding>
+                <element signature="tag#header#0;tag#body#0;tag#html#0" expanded="false" />
+                <element signature="tag#aside#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+                <element signature="tag#div#1;tag#div#1;tag#section#1;tag#aside#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="editor.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vote/pages/UI/editor.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="417" column="107" selection-start="26132" selection-end="26138" vertical-scroll-proportion="-13.846154" vertical-offset="643" max-vertical-offset="1819">
+              <folding>
+                <element signature="tag#header#0;tag#body#0;tag#html#0" expanded="false" />
+                <element signature="tag#aside#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -110,6 +135,7 @@
         <option value="$PROJECT_DIR$/vote/index.html" />
         <option value="$PROJECT_DIR$/vote/pages/examples/dashboard.html" />
         <option value="$PROJECT_DIR$/vote/pages/examples/results.html" />
+        <option value="$PROJECT_DIR$/vote/pages/UI/editor.html" />
       </list>
     </option>
   </component>
@@ -275,6 +301,11 @@
     <property name="options.searchVisible" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\projects\git\uvote\vote\pages\UI" />
+    </key>
+  </component>
   <component name="RunManager">
     <list size="0" />
   </component>
@@ -377,7 +408,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/vote/pages/examples/results.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="527" column="27" selection-start="24201" selection-end="24201" vertical-scroll-proportion="0.48850575" vertical-offset="2193" max-vertical-offset="4250">
+        <state line="527" column="27" selection-start="24201" selection-end="24201" vertical-scroll-proportion="-16.346153" vertical-offset="2193" max-vertical-offset="4250">
           <folding>
             <element signature="tag#header#0;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#section#0;tag#aside#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
@@ -387,6 +418,27 @@
             <element signature="n#style#0;n#div#0;n#div#0;n#td#3;n#tr#3;n#table#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#1;n#aside#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#td#3;n#tr#4;n#table#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#1;n#aside#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <marker date="1406006631910" expanded="false" signature="27087:27165" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vote/pages/UI/editor.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="417" column="107" selection-start="26132" selection-end="26138" vertical-scroll-proportion="-13.846154" vertical-offset="643" max-vertical-offset="1819">
+          <folding>
+            <element signature="tag#header#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#aside#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vote/pages/UI/buttons.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="470" column="25" selection-start="30194" selection-end="30194" vertical-scroll-proportion="0.29310346" vertical-offset="1649" max-vertical-offset="10591">
+          <folding>
+            <element signature="tag#header#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#aside#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#1;tag#div#1;tag#section#1;tag#aside#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
           </folding>
         </state>
       </provider>
