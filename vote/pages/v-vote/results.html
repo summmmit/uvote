@@ -184,17 +184,17 @@
                 <div class="col-md-offset-1 col-md-10 col-sm-offset-2 col-sm-8 col-xs-12">
                     <div class="btn-group">
                         <button type="button" class="btn btn-danger button-size-group"
-                                onclick="show(document.getElementById('button-option')); hide(document.getElementById('ask-button')); changeText('You Have Selected : Option Type ')"><i
+                                onclick="show(document.getElementById('button-option')); hide(document.getElementById('ask-button'))"><i
                                 class='glyphicon glyphicon-list'></i>
 
                             <p>Multiple Options</p></button>
                         <button type="button" class="btn btn-danger button-size-group"
-                                onclick="hide(document.getElementById('button-option')); show(document.getElementById('ask-button')); changeText('You Have Selected : Suggestions Type ')"><i
+                                onclick="hide(document.getElementById('button-option')); show(document.getElementById('ask-button'))"><i
                                 class='glyphicon glyphicon-bullhorn'></i>
 
                             <p>Suggestions</p></button>
                         <button type="button" class="btn btn-danger button-size-group"
-                                onclick="hide(document.getElementById('button-option')); show(document.getElementById('ask-button')); changeText('You Have Selected : Rank Type ')"><i
+                                onclick="hide(document.getElementById('button-option')); show(document.getElementById('ask-button'))"><i
                                 class='glyphicon glyphicon-star'></i>
 
                             <p>Rank Based</p></button>
@@ -205,7 +205,7 @@
                 <div class="col-md-offset-3 col-md-6">
                     <div class="box" style="border-top: none">
                         <div class="box-header text-center">
-                            <h3 class="box-title " id="changing-text" style="float: none">Choose Your Question Type From Above</h3>
+                            <h3 class="box-title " style="float: none">Choose Your Question Type From Above</h3>
                         </div>
                         <div class="box-body">
                             <input class="form-control input-lg form-input-height text-center" type="text"
@@ -379,12 +379,6 @@
                                     return;
                                 if (which.style.display === "block")
                                     which.style.display = "none";
-                            }
-
-                            //for the changing of the text
-
-                            function changeText(text){
-                                document.getElementById("changing-text").innerText = text;
                             }
 
                             // for the image uploader
