@@ -26,12 +26,8 @@
       <file leaf-file-name="simple.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vote/pages/tables/simple.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="406" column="27" selection-start="25178" selection-end="29327" vertical-scroll-proportion="-8.0" vertical-offset="608" max-vertical-offset="5202">
-              <folding>
-                <element signature="tag#header#0;tag#body#0;tag#html#0" expanded="false" />
-                <element signature="tag#aside#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-                <element signature="tag#div#0;tag#div#0;tag#div#0;tag#section#1;tag#aside#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-              </folding>
+            <state line="406" column="27" selection-start="25178" selection-end="29327" vertical-scroll-proportion="0.0" vertical-offset="6902" max-vertical-offset="12359">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -39,15 +35,8 @@
       <file leaf-file-name="rateResults.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vote/pages/v-vote/rateResults.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="204" column="36" selection-start="7712" selection-end="7712" vertical-scroll-proportion="-8.615385" vertical-offset="2445" max-vertical-offset="6647">
-              <folding>
-                <element signature="tag#header#0;tag#body#0;tag#html#0" expanded="false" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#3;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#5;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#7;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#9;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state line="204" column="36" selection-start="7712" selection-end="7712" vertical-scroll-proportion="0.0" vertical-offset="3468" max-vertical-offset="7446">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -55,7 +44,7 @@
       <file leaf-file-name="picOptions.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/vote/pages/v-vote/picOptions.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="227" column="117" selection-start="9276" selection-end="9276" vertical-scroll-proportion="0.21494253" vertical-offset="714" max-vertical-offset="4607">
+            <state line="227" column="117" selection-start="9276" selection-end="9276" vertical-scroll-proportion="-3.2333333" vertical-offset="3714" max-vertical-offset="4607">
               <folding>
                 <element signature="tag#head#0;tag#html#0" expanded="false" />
                 <element signature="tag#header#0;tag#body#0;tag#html#0" expanded="false" />
@@ -129,7 +118,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -226,6 +214,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -267,29 +256,29 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32899022" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32899022" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Framework" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2606383" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32899022" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25797874" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32899022" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32899022" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20086862" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -310,238 +299,189 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/vote/pages/examples/dashboard.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="8" selection-start="1023" selection-end="1143" vertical-scroll-proportion="0.0" vertical-offset="374" max-vertical-offset="9979">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vote/pages/examples/results.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="527" column="27" selection-start="24211" selection-end="24211" vertical-scroll-proportion="0.0" vertical-offset="8959" max-vertical-offset="10591">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vote/pages/UI/buttons.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="515" column="54" selection-start="32793" selection-end="33294" vertical-scroll-proportion="0.0" vertical-offset="8755" max-vertical-offset="21777">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vote/pages/forms/general.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="554" column="63" selection-start="34581" selection-end="34992" vertical-scroll-proportion="0.0" vertical-offset="9418" max-vertical-offset="12291">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vote/pages/UI/general.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="733" column="23" selection-start="52072" selection-end="55221" vertical-scroll-proportion="0.0" vertical-offset="12461" max-vertical-offset="16932">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vote/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="561" column="21" selection-start="34171" selection-end="34171" vertical-scroll-proportion="0.0" vertical-offset="9537" max-vertical-offset="16269">
-          <folding>
-            <element signature="tag#div#1;tag#section#1;tag#div#2;tag#section#1;tag#aside#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vote/css/AdminLTE.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="22" selection-start="575" selection-end="575" vertical-scroll-proportion="0.0" vertical-offset="27" max-vertical-offset="57987">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vote/pages/examples/dashboard.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="8" selection-start="1023" selection-end="1143" vertical-scroll-proportion="0.0" vertical-offset="374" max-vertical-offset="9979">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vote/pages/examples/results.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="527" column="27" selection-start="24211" selection-end="24211" vertical-scroll-proportion="0.0" vertical-offset="8959" max-vertical-offset="10591">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vote/pages/UI/buttons.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="515" column="54" selection-start="32793" selection-end="33294" vertical-scroll-proportion="0.0" vertical-offset="8755" max-vertical-offset="21777">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vote/pages/forms/general.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="554" column="63" selection-start="34581" selection-end="34992" vertical-scroll-proportion="0.0" vertical-offset="9418" max-vertical-offset="12291">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vote/pages/UI/general.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="733" column="23" selection-start="52072" selection-end="55221" vertical-scroll-proportion="0.0" vertical-offset="12461" max-vertical-offset="16932">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vote/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="561" column="21" selection-start="34171" selection-end="34171" vertical-scroll-proportion="0.0" vertical-offset="9537" max-vertical-offset="16269">
-          <folding>
-            <element signature="tag#div#1;tag#section#1;tag#div#2;tag#section#1;tag#aside#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vote/css/AdminLTE.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="57987">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vote/pages/examples/dashboard.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="8" selection-start="1023" selection-end="1143" vertical-scroll-proportion="0.0" vertical-offset="374" max-vertical-offset="9979">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vote/pages/examples/results.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="527" column="27" selection-start="24201" selection-end="24201" vertical-scroll-proportion="0.0" vertical-offset="8959" max-vertical-offset="10591">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vote/pages/UI/buttons.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="520" column="48" selection-start="33663" selection-end="33663" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="10591">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vote/pages/UI/general.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="733" column="23" selection-start="52072" selection-end="55221" vertical-scroll-proportion="0.0" vertical-offset="12461" max-vertical-offset="16932">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vote/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="561" column="21" selection-start="34173" selection-end="34173" vertical-scroll-proportion="0.0" vertical-offset="9537" max-vertical-offset="16269">
-          <folding>
-            <element signature="tag#div#1;tag#section#1;tag#div#2;tag#section#1;tag#aside#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vote/css/AdminLTE.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="57987">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vote/pages/UI/general.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="733" column="23" selection-start="52072" selection-end="55221" vertical-scroll-proportion="0.0" vertical-offset="12461" max-vertical-offset="16932">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vote/pages/examples/dashboard.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="8" selection-start="1023" selection-end="1143" vertical-scroll-proportion="-0.0" vertical-offset="374" max-vertical-offset="9979">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vote/pages/examples/results.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="527" column="27" selection-start="24211" selection-end="24211" vertical-scroll-proportion="0.0" vertical-offset="8959" max-vertical-offset="10591">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vote/pages/UI/buttons.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="515" column="54" selection-start="32793" selection-end="33294" vertical-scroll-proportion="0.0" vertical-offset="8755" max-vertical-offset="21777">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vote/pages/forms/general.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="554" column="63" selection-start="34581" selection-end="34992" vertical-scroll-proportion="0.0" vertical-offset="9418" max-vertical-offset="12291">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vote/css/AdminLTE.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="22" selection-start="575" selection-end="575" vertical-scroll-proportion="0.0" vertical-offset="27" max-vertical-offset="57987">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vote/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="728" column="28" selection-start="45941" selection-end="51056" vertical-scroll-proportion="-1.4339622" vertical-offset="12300" max-vertical-offset="15113">
-          <folding>
-            <element signature="tag#div#1;tag#section#1;tag#div#2;tag#section#1;tag#aside#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vote/pages/v-vote/chatBox.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="295" column="34" selection-start="13501" selection-end="13501" vertical-scroll-proportion="0.8045977" vertical-offset="4315" max-vertical-offset="8245">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vote/pages/tables/simple.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="406" column="27" selection-start="25178" selection-end="29327" vertical-scroll-proportion="-8.0" vertical-offset="608" max-vertical-offset="5202">
-          <folding>
-            <element signature="tag#header#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#aside#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#div#0;tag#div#0;tag#div#0;tag#section#1;tag#aside#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-          </folding>
+        <state line="406" column="27" selection-start="25178" selection-end="29327" vertical-scroll-proportion="0.0" vertical-offset="6902" max-vertical-offset="12359">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vote/pages/v-vote/rateResults.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="204" column="36" selection-start="7712" selection-end="7712" vertical-scroll-proportion="-8.615385" vertical-offset="2445" max-vertical-offset="6647">
-          <folding>
-            <element signature="tag#header#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#3;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#5;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#7;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#9;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state line="204" column="36" selection-start="7712" selection-end="7712" vertical-scroll-proportion="0.0" vertical-offset="3468" max-vertical-offset="7446">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vote/pages/v-vote/picOptions.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="227" column="117" selection-start="9276" selection-end="9276" vertical-scroll-proportion="0.21494253" vertical-offset="714" max-vertical-offset="4607">
+        <state line="227" column="117" selection-start="9276" selection-end="9276" vertical-scroll-proportion="0.0" vertical-offset="3859" max-vertical-offset="4607">
+          <folding>
+            <element signature="tag#head#0;tag#html#0" expanded="false" />
+            <element signature="tag#header#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#0;tag#nav#0;tag#header#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vote/pages/examples/dashboard.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="8" selection-start="1023" selection-end="1143" vertical-scroll-proportion="0.0" vertical-offset="374" max-vertical-offset="9979" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vote/pages/examples/results.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="527" column="27" selection-start="24211" selection-end="24211" vertical-scroll-proportion="0.0" vertical-offset="8959" max-vertical-offset="10591" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vote/pages/UI/buttons.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="515" column="54" selection-start="32793" selection-end="33294" vertical-scroll-proportion="0.0" vertical-offset="8755" max-vertical-offset="21777" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vote/pages/forms/general.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="554" column="63" selection-start="34581" selection-end="34992" vertical-scroll-proportion="0.0" vertical-offset="9418" max-vertical-offset="12291" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vote/pages/UI/general.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="733" column="23" selection-start="52072" selection-end="55221" vertical-scroll-proportion="0.0" vertical-offset="12461" max-vertical-offset="16932" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vote/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="561" column="21" selection-start="34171" selection-end="34171" vertical-scroll-proportion="0.0" vertical-offset="9537" max-vertical-offset="16269" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vote/css/AdminLTE.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="22" selection-start="575" selection-end="575" vertical-scroll-proportion="0.0" vertical-offset="27" max-vertical-offset="57987" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vote/pages/examples/dashboard.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="8" selection-start="1023" selection-end="1143" vertical-scroll-proportion="0.0" vertical-offset="374" max-vertical-offset="9979" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vote/pages/examples/results.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="527" column="27" selection-start="24211" selection-end="24211" vertical-scroll-proportion="0.0" vertical-offset="8959" max-vertical-offset="10591" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vote/pages/UI/buttons.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="515" column="54" selection-start="32793" selection-end="33294" vertical-scroll-proportion="0.0" vertical-offset="8755" max-vertical-offset="21777" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vote/pages/forms/general.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="554" column="63" selection-start="34581" selection-end="34992" vertical-scroll-proportion="0.0" vertical-offset="9418" max-vertical-offset="12291" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vote/pages/UI/general.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="733" column="23" selection-start="52072" selection-end="55221" vertical-scroll-proportion="0.0" vertical-offset="12461" max-vertical-offset="16932" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vote/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="561" column="21" selection-start="34171" selection-end="34171" vertical-scroll-proportion="0.0" vertical-offset="9537" max-vertical-offset="16269" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vote/css/AdminLTE.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="57987" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vote/pages/examples/dashboard.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="8" selection-start="1023" selection-end="1143" vertical-scroll-proportion="0.0" vertical-offset="374" max-vertical-offset="9979" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vote/pages/examples/results.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="527" column="27" selection-start="24201" selection-end="24201" vertical-scroll-proportion="0.0" vertical-offset="8959" max-vertical-offset="10591" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vote/pages/UI/buttons.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="520" column="48" selection-start="33663" selection-end="33663" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="10591" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vote/pages/UI/general.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="733" column="23" selection-start="52072" selection-end="55221" vertical-scroll-proportion="0.0" vertical-offset="12461" max-vertical-offset="16932" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vote/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="561" column="21" selection-start="34173" selection-end="34173" vertical-scroll-proportion="0.0" vertical-offset="9537" max-vertical-offset="16269" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vote/css/AdminLTE.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="57987" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vote/pages/UI/general.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="733" column="23" selection-start="52072" selection-end="55221" vertical-scroll-proportion="0.0" vertical-offset="12461" max-vertical-offset="16932" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vote/pages/examples/dashboard.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="8" selection-start="1023" selection-end="1143" vertical-scroll-proportion="-0.0" vertical-offset="374" max-vertical-offset="9979" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vote/pages/examples/results.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="527" column="27" selection-start="24211" selection-end="24211" vertical-scroll-proportion="0.0" vertical-offset="8959" max-vertical-offset="10591" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vote/pages/UI/buttons.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="515" column="54" selection-start="32793" selection-end="33294" vertical-scroll-proportion="0.0" vertical-offset="8755" max-vertical-offset="21777" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vote/pages/forms/general.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="554" column="63" selection-start="34581" selection-end="34992" vertical-scroll-proportion="0.0" vertical-offset="9418" max-vertical-offset="12291" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vote/css/AdminLTE.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="22" selection-start="575" selection-end="575" vertical-scroll-proportion="0.0" vertical-offset="27" max-vertical-offset="57987" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vote/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="728" column="28" selection-start="45941" selection-end="51056" vertical-scroll-proportion="-1.4339622" vertical-offset="12300" max-vertical-offset="15113" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vote/pages/v-vote/chatBox.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="295" column="34" selection-start="13501" selection-end="13501" vertical-scroll-proportion="0.8045977" vertical-offset="4315" max-vertical-offset="8245" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vote/pages/tables/simple.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="406" column="27" selection-start="25178" selection-end="29327" vertical-scroll-proportion="0.0" vertical-offset="6902" max-vertical-offset="12359">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vote/pages/v-vote/rateResults.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="204" column="36" selection-start="7712" selection-end="7712" vertical-scroll-proportion="0.0" vertical-offset="3468" max-vertical-offset="7446">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vote/pages/v-vote/picOptions.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="227" column="117" selection-start="9276" selection-end="9276" vertical-scroll-proportion="-3.2333333" vertical-offset="3714" max-vertical-offset="4607">
           <folding>
             <element signature="tag#head#0;tag#html#0" expanded="false" />
             <element signature="tag#header#0;tag#body#0;tag#html#0" expanded="false" />
