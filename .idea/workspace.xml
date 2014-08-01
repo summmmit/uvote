@@ -61,12 +61,20 @@
       <file leaf-file-name="picOptionsresults.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/vote/pages/v-vote/picOptionsresults.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="228" column="36" selection-start="8755" selection-end="8755" vertical-scroll-proportion="0.5850575" vertical-offset="2568" max-vertical-offset="6103">
+            <state line="205" column="29" selection-start="7633" selection-end="7633" vertical-scroll-proportion="0.31609195" vertical-offset="2411" max-vertical-offset="3383">
               <folding>
                 <element signature="tag#header#0;tag#body#0;tag#html#0" expanded="false" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#td#0;n#tr#3;n#table#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#3;n#table#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#td#2;n#tr#3;n#table#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="perPicOptionsresults.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vote/pages/v-vote/perPicOptionsresults.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="206" column="61" selection-start="7650" selection-end="7650" vertical-scroll-proportion="-17.615385" vertical-offset="2245" max-vertical-offset="3383">
+              <folding>
+                <element signature="tag#header#0;tag#body#0;tag#html#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -94,6 +102,7 @@
         <option value="$PROJECT_DIR$/vote/pages/v-vote/results.html" />
         <option value="$PROJECT_DIR$/vote/pages/v-vote/rateResults.html" />
         <option value="$PROJECT_DIR$/vote/pages/v-vote/picOptions.html" />
+        <option value="$PROJECT_DIR$/vote/pages/v-vote/perPicOptionsresults.html" />
         <option value="$PROJECT_DIR$/vote/pages/v-vote/picOptionsresults.html" />
       </list>
     </option>
@@ -518,14 +527,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vote/pages/v-vote/picOptionsresults.html">
+    <entry file="file://$PROJECT_DIR$/vote/pages/v-vote/perPicOptionsresults.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="228" column="36" selection-start="8755" selection-end="8755" vertical-scroll-proportion="0.5850575" vertical-offset="2568" max-vertical-offset="6103">
+        <state line="206" column="61" selection-start="7650" selection-end="7650" vertical-scroll-proportion="-17.615385" vertical-offset="2245" max-vertical-offset="3383">
           <folding>
             <element signature="tag#header#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#td#0;n#tr#3;n#table#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#td#1;n#tr#3;n#table#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#td#2;n#tr#3;n#table#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vote/pages/v-vote/picOptionsresults.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="205" column="29" selection-start="7633" selection-end="7633" vertical-scroll-proportion="0.31609195" vertical-offset="2411" max-vertical-offset="3383">
+          <folding>
+            <element signature="tag#header#0;tag#body#0;tag#html#0" expanded="false" />
           </folding>
         </state>
       </provider>
