@@ -12,6 +12,33 @@
     <link href="assets/css/bootstrap-theme.css" rel="stylesheet" type="text/css"/>
 </head>
 <body>
+<div id="uploader">
+    <div class="js-fileapi-wrapper">
+        <input type="file" name="files[]" />
+    </div>
+    <div data-fileapi="active.show" class="progress">
+        <div data-fileapi="progress" class="progress__bar"></div>
+    </div>
+</div>
 
+
+<script>
+    jQuery(function ($){
+        $('#uploader').fileapi({
+            url: './ctrl.php',
+            autoUpload: true,
+            accept: 'image/*',
+            multiple: true,
+            maxSize: FileAPI.MB*10 // max file size
+        });
+    });
+</script>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script>
+
+
+<script src="js/FileAPI/FileAPI.min.js"></script>
+<script src="js/FileAPI/FileAPI.exif.js"></script>
+<script src="js/jquery.fileapi.min.js"></script>
 </body>
 </html>
